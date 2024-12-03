@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a fullstack application with an empty backend and a fully developed frontend using ReactJS (version 18). The frontend of the project is built with Vite (latest version) and uses several libraries and tools, such as TailwindCSS, Flowbite and React Router DOM. This project includes unit and integration tests generated based on fuzzing system testing
+This is a fullstack application with an empty backend and a fully developed frontend using ReactJS. The frontend of the project is built with Vite and uses several libraries and tools, such as TailwindCSS, Flowbite and React Router DOM. This project includes unit and integration tests generated based on fuzzing system testing
 
 ## Technologies Used
 
@@ -34,6 +34,7 @@ Before getting started, make sure you have the following installed on your syste
     
     ```bash
     cd frontend
+    npm i
     
 This will create the node_modules directory and install the required packages for both the frontend and testing.
 
